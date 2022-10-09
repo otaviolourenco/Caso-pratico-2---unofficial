@@ -3,8 +3,7 @@ body{
 }
 
 h1, h2, h3, h4, h5, h6{
-    font-family: 'Dosis', "Helvetica Neue", "Helvetica", Helvetica, Arial,sans-serif;
-    margin-bottom: 0.5rem;
+    font-family: Helvetica, Arial,sans-serif;
     letter-spacing: 2px;
     color: #FEF8DD;
 }
@@ -39,7 +38,7 @@ a:hover{
 }
 
 .container{
-    padding: 3rem 0;
+    padding: 3rem;
 }
 
 .btn-outline-warning:hover{
@@ -78,14 +77,12 @@ a:hover{
     background-color: #13181d00;
 }
 
-.navbar{
-    padding: 0.5rem 2rem;
-}
-
 .container-center{
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding: 3rem;
+    border: solid 0.4rem #D37758;
 }
 
 .cover-disc:hover{
@@ -99,15 +96,13 @@ a:hover{
     color: azure;
 }
 
-.carousel-info{
+.carousel-item{
     height: 18rem;
+    background-color: #9E9DA7;
 }
 
 #CTA{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 18rem;
+    background-color: #9e9da74d;
 }
 
 #shows{
@@ -116,15 +111,14 @@ a:hover{
 
 #newsletter{
     text-align: center;
-    border: solid 3px #ccc;
-    border-radius: 10px;
+    border: solid 0.2rem #ccc;
+    border-radius: 1rem;
     padding: 3rem;
 }
 
 #pre-sale{
-    
     height: 20rem;
-    background-image: linear-gradient(to bottom, #0b0b0b, rgb(85, 85, 85), #5555);
+    background-color: #9e9da74d;
 }
 
 .card-gallery.image-gallery{
