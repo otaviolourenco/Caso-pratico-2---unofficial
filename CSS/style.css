@@ -123,7 +123,7 @@ a:hover{
 }
 
 #CTA{
-    background-color: #9e9da74d;
+    background-color: #9e9da714;
 }
 
 #newsletter{
@@ -134,7 +134,7 @@ a:hover{
 }
 
 #pre-sale{
-    background-color: #9e9da74d;
+    background-color: #9e9da714;
 }
 
 .card-gallery.image-gallery{
@@ -143,9 +143,7 @@ a:hover{
 }
 
 .cam-icon{
-    font-size: 5rem;
-    text-align: center;
-    margin-bottom: -4rem;
+    font-size: 4rem;
 }
 
 img.gallery {
