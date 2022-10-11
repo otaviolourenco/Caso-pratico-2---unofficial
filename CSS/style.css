@@ -101,12 +101,29 @@ a:hover{
     background-color: #9E9DA7;
 }
 
-#CTA{
-    background-color: #9e9da74d;
+#carousel-1{
+    background-image: url(../images/slide.jpg);
+    background-position: center top 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
-#shows{
-    max-width: 40rem;
+#carousel-2{
+    background-image: url(../images/slide2.jpg);
+    background-position: center top 30%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#carousel-3{
+    background-image: url(../images/slide3.jpg);
+    background-position: center ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#CTA{
+    background-color: #9e9da74d;
 }
 
 #newsletter{
@@ -117,7 +134,6 @@ a:hover{
 }
 
 #pre-sale{
-    height: 20rem;
     background-color: #9e9da74d;
 }
 
