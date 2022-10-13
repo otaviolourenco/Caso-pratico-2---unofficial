@@ -42,9 +42,9 @@ a:hover{
 }
 
 .btn-outline-warning:hover{
-    color: #2e2e2e;
+    color: #FFC107;
     background-color: #F5D273;
-    border-color: #9E9DA7
+    border-color: #FFC107;
 }
 
 .social i{
@@ -69,26 +69,6 @@ a:hover{
 #header-text h1{
     font-family: 'mirai', sans-serif;
     font-size: 4rem;
-}
-
-.list-group-item{
-    border: 0;
-    color: azure;
-    background-color: #13181d00;
-}
-
-.container-center{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 3rem;
-    border: solid 0.4rem #D37758;
-}
-
-.cover-disc:hover{
-    box-shadow: 1px 1px 25px 5px #fff;
-    border-radius: 1rem;
-    padding: 0.1rem;
 }
 
 .card{
